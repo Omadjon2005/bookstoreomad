@@ -1,0 +1,134 @@
+.header .container-fluid .card
+{
+    border-radius: 0px;
+}
+
+.header .book
+{
+    color: brown;
+    font-size: 25px;
+    border-bottom: 2px solid brown;
+}
+.new
+{
+    border-bottom: 2px solid brown;
+    padding: 5px 0;
+    padding-right: 5px;
+}
+.all
+{
+    border-bottom: 2px solid brown;
+    padding: 5px 0;
+}
+
+body .container .icon
+{
+    font-size: 10px;
+}
+body .card
+{
+    border: none;
+}
+.content .hot
+{
+    border-bottom: 2px solid brown;
+    padding-bottom: 2px;
+}
+.content .container .card
+{
+    border-radius: 0;
+}
+
+.summer img
+{
+    width: 100%;
+}
+.summer .img__summer
+{
+    background: url(ищщщщщщщщщ.webp) no-repeat center;
+    background-size: cover;
+    height: 400px;
+}
+.summer .summer__text
+{
+    background-color: #F4F4F4;
+}
+.summer .point
+{
+    border: 1px solid #fff;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    background-color: #fff;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.summer .text__DISCOUNt
+{
+    /* border: 1px solid; */
+    text-align: center;
+    font-size: 50px;
+    color: #CA1515;
+    margin: 0;
+}
+.summer p
+{
+    /* border: 1px solid; */
+    margin:  1px 0;
+}
+.summer .NOW
+{
+    border-bottom: 2px solid brown;
+    padding: 3px 0;
+}
+.images img
+{
+    height: 300px;
+}
+.footer .footer__texts
+{
+    display: block;
+    text-decoration: none;
+}
+.footer .input
+{
+    /* border: #666; */
+    padding: 15px 0;
+    padding-left: 25px;
+    /* border-radius: 50%; */
+    border-radius: 50px;
+    width: 95%;
+}
+.footer .footer__icons
+{
+    border: 1px solid #666;
+    background-color: #666;
+    border-radius: 50%;
+    padding: 7px 7px;
+    margin: 0 7px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer .footer__icons i
+{
+    color: #fff;
+}
+.footer .omad
+{
+    color: #f00;
+    font-weight: 600;
+}
+.footer .fa-heart
+{
+    color: #f00;
+}
+.footer .book
+{
+    color: brown;
+    font-size: 50px;
+    border-bottom: 2px solid brown;
+}
